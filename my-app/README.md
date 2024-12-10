@@ -1,5 +1,5 @@
-VRV Frontend Assignment
-This repository contains the frontend code for my project, which I developed as part of the VRV Security assignment for the Frontend Intern position. This project uses React.js and focuses on creating a user-friendly and responsive Role-Based Access Control (RBAC) interface.
+
+This repository contains the frontend code for my project, which uses React.js and focuses on creating a user-friendly and responsive Role-Based Access Control (RBAC) interface.
 
 Project Overview
 The RBAC UI is designed to help administrators manage users, roles, and permissions, offering functionalities to:
@@ -20,20 +20,20 @@ Search and Filter:
 Search for users based on their name or email and filter them as needed.
 Technologies Used
 React.js for building the user interface.
-React Router for managing routing across different pages.
+React Router is used to manage routing across different pages.
 Styled components for CSS-in-JS styling.
 Context API to manage global state (e.g. theme management).
 Getting Started
 To get started with this project, follow the steps below:
 
 1. Clone the Project
-First, clone the repository to your local machine using command :
+First, clone the repository to your local machine using the command :
 
-git clone https://github.com/Aniket-fating/VRV-ASSIGNMENT-FRONTEND.git
+git clone https://github.com/Aniket-fating/User-Management.git
 2. Navigate to the Project Folder
 Move into the project directory:
 
-- cd VRV-Assignment-Frontend/ 
+- cd User-Management/ 
 - cd my-app/
 3. Install Dependencies
 Install all the required dependencies using npm:
